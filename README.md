@@ -1,7 +1,7 @@
 # Out of Control Game Boy Color
 This is demake of my game Out of Control.
 This was my first Game Boy game using ZGB.
-Download the Rom from **[itch.io](https://healthpotionstudios.itch.io/out-of-control-game-boy-color "itch.io")** or from the **Bin** folder on GitHub. You will need an emulator to play it.
+Play online from **[itch.io](https://healthpotionstudios.itch.io/out-of-control-game-boy-color "itch.io")** or download the rom from the **Bin** folder on GitHub. You will need an emulator to play it.
 
 Also included is a 3DS .cia file if you know what to do with it.
 
